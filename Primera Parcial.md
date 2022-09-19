@@ -88,7 +88,7 @@ Donde estaran adjuntos los diferentes codigos de las clases en las que trabajamo
       print(dos)
   
 ---
-## _Ejercicio de lo aprendido en clase_
+## _Ejercicio de lo aprendido en clase #1_
 
   Escriba una funcion que mediante fstrings retorne el mensaje "Hola -nombre- tienes -edad- años". 
   Los argumentos de la funcion: año actual, año de nacimiento y nombre.
@@ -352,7 +352,7 @@ Donde estaran adjuntos los diferentes codigos de las clases en las que trabajamo
       print(repetidos)
 
 
-## _Ejercicio de lo aprendido en clase 2_
+## _Ejercicio de lo aprendido en clase #2_
 
 Escribe una funcion que reciba como argumentos T y N donde T es el limite de tablas de multiplicar que se 
 desean obtener y N hasta un valor de las tablas se desea. Todas empiezan desde el 1.
