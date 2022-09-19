@@ -28,8 +28,8 @@ Donde estaran adjuntos los diferentes codigos de las clases en las que trabajamo
     
 - #### Interpolacion de Cadenas.
 
-      name="Diana Llamas"
-      edad=22
+      name="Laura"
+      edad=52
       print("hola",name,"tienes",edad,"años")
     
 - #### fstrings.
@@ -49,6 +49,7 @@ Donde estaran adjuntos los diferentes codigos de las clases en las que trabajamo
       print(mi_funcion) 
       
       def saludo2():
+      
       return"Hola mundo"
       saludo2() #Invocacion 
       mi_funcion2= saludo2()
@@ -59,6 +60,7 @@ Donde estaran adjuntos los diferentes codigos de las clases en las que trabajamo
       print(res)
 
       def suma(a,b):
+      
       return a+b
       res = f"La suma de {a}+{b} = {suma(a,b)}
       print(res)
@@ -69,13 +71,15 @@ Donde estaran adjuntos los diferentes codigos de las clases en las que trabajamo
       msg_numeros= f"Numeros:{lista_numeros}"
       print(msg_numeros)
 
+##
       tupla_numeros=("uno","dos","tres")
       msg_numeros=f"numeros:{tupla_numeros}"
       print(msg_numeros)
+##
 
       set_numeros={"1","2","3","4","5","6","7","8","9","10"}
       print(set_numeros)
-
+##
       dict_numeros={"1":"uno","2":"dos","3":"tres"}
       msg_dict_numeros=f"numeros:{dict_numeros}"
       print(msg_dict_numeros)
@@ -90,7 +94,7 @@ Escriba una funcion que mediante fstrings retorne el mensaje "Hola -nombre- tien
 Los argumentos de la funcion: año actual, año de nacimiento y nombre.
 
     nombre="Diana"
-    edad=22
+    edad=52
   
     def msj(nombre,edad):
      return(nombre,edad)
