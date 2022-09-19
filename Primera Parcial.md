@@ -90,8 +90,8 @@ Donde estaran adjuntos los diferentes codigos de las clases en las que trabajamo
 ---
 ## _Ejercicio de lo aprendido en clase_
 
-Escriba una funcion que mediante fstrings retorne el mensaje "Hola -nombre- tienes -edad- años". 
-Los argumentos de la funcion: año actual, año de nacimiento y nombre.
+  Escriba una funcion que mediante fstrings retorne el mensaje "Hola -nombre- tienes -edad- años". 
+  Los argumentos de la funcion: año actual, año de nacimiento y nombre.
 
     nombre="Diana"
     edad=52
